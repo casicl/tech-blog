@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The future of coding",
+        "contents": "Maybe AI will do it all. What do you think?",
+        "username": "Charlie",
+        "date": "2024-07-04"
+    },
+
+    {
+        "title": "I have no idea what I'm doing",
+        "contents": "A cry for help",
+        "username": "Casi",
+        "date": "2023-12-24"
+    },
+
+    {
+        "title": "Woof",
+        "contents": "Woof woof woof bark arf",
+        "username": "Zero",
+        "date": "2024-01-01"
+    }
+
+]
